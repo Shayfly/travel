@@ -1,17 +1,17 @@
 
-# SHAYFLY - Travel Aggregator
+# SHAYFLY Pro Travel Aggregator
 
-Welcome to SHAYFLY, your modern and refreshing travel search engine for Flights, Hotels, Cars and Package Deals.
+Professional multi-language (Hebrew, English, Russian) travel aggregator site built with React, Vite, Tailwind CSS.
 
-## Pages included
-- Home
-- Flights
-- Hotels
-- Cars
-- Packages
-- Contact
+## Run
+npm install
+npm run dev
 
-## How to Deploy
-1. Upload the content of this folder to your GitHub repository.
-2. Go to Settings -> Pages -> Set branch to 'main' or 'master' and root.
-3. Done! Your website is live.
+## Build
+npm run build
+
+## Features
+- Multi-language
+- SEO Ready
+- Responsive
+- Realistic Search Engine (Demo)
