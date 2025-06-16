@@ -1,17 +1,16 @@
 
-# SHAYFLY Pro Travel Aggregator
-
-Professional multi-language (Hebrew, English, Russian) travel aggregator site built with React, Vite, Tailwind CSS.
-
-## Run
-npm install
-npm run dev
-
-## Build
-npm run build
+# SHAYFLY - Professional Travel Aggregator
 
 ## Features
-- Multi-language
-- SEO Ready
-- Responsive
-- Realistic Search Engine (Demo)
+- Flight, Hotel, Car, Package search with external links
+- Contact form (mailto)
+- Multilingual support ready
+- SEO setup (robots.txt, sitemap.xml)
+- Responsive design
+
+## Structure
+- index.html
+- /pages (flights, hotels, cars, packages, contact, about, terms, privacy)
+- /assets/images (favicon)
+- /lang (multi-language files)
+- styles.css
